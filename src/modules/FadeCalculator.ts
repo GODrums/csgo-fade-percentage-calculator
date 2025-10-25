@@ -40,12 +40,32 @@ class FadeCalculator extends BaseCalculator {
 
   tradeUpWeapons = [
     'AWP',
+    'Bayonet',
+    'Bowie Knife',
+    'Butterfly Knife',
+    'Classic Knife',
+    'Falchion Knife',
+    'Flip Knife',
     'Glock-18',
+    'Gut Knife',
+    'Huntsman Knife',
+    'Karambit',
+    'Kukri Knife',
     'M4A1-S',
+    'M9 Bayonet',
     'MAC-10',
     'MP7',
+    'Navaja Knife',
+    'Nomad Knife',
+    'Paracord Knife',
     'R8 Revolver',
+    'Shadow Daggers',
+    'Skeleton Knife',
+    'Stiletto Knife',
+    'Survival Knife',
+    'Talon Knife',
     'UMP-45',
+    'Ursus Knife',
   ];
 
   configs = {
